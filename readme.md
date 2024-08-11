@@ -20,7 +20,7 @@ Curvetopia focuses on analyzing and manipulating 2D curves, with a strong emphas
 - **Straight Lines**: Detect and process straight lines within curve data.
 - **Circles & Ellipses**: Identify curves where all points are equidistant from a center or curves with two focal points.
 - **Rectangles & Rounded Rectangles**: Distinguish between sharp-edged and rounded rectangles.
-- **Regular Polygons & Star Shapes**: Identify polygons with equal sides and angles and star shapes with radial symmetry.
+- **Regular Polygons & Star Shapes**: Identify polygons with equal sides and angles, and star shapes with radial symmetry.
 
 ### 🔹 Symmetry in Curves
 - Detect and fit Bézier curves to points exhibiting reflection symmetry, focusing on closed shapes.
@@ -51,3 +51,17 @@ Curvetopia focuses on analyzing and manipulating 2D curves, with a strong emphas
 ```bash
 git clone https://github.com/yourusername/curvetopia.git
 cd curvetopia
+```
+## 👥 Team Details
+
+- **Riyaz Siddiqui (Lead)**
+  - Email: [riyaz.2201165me@iiitbh.ac.in](mailto:riyaz.2201165me@iiitbh.ac.in)
+  - GitHub: [siddiq0611](https://github.com/siddiq0611)
+  
+- **Dev Gupta**
+  - Email: [dev.2201090cs@iiitbh.ac.in](mailto:dev.2201090cs@iiitbh.ac.in)
+  - GitHub: [Dev7g](https://github.com/Dev7g)
+  
+- **Shaikh Abdullah**
+  - Email: [shaikh.2201027cs@iiitbh.ac.in](mailto:shaikh.2201027cs@iiitbh.ac.in)
+  - GitHub: [PerHac13](https://github.com/PerHac13)
